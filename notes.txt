@@ -1,0 +1,56 @@
+Templates:
+- creative-tim.com
+- themsberg.com
+- zerotheme.com
+- colorlib.com
+- bootstrapmade.com
+- landingfolio.com
+- codepen.io
+
+Web Hosting:
+- vercel
+- netlify
+- aws
+- github pages
+
+Gradient:
+- gradient.style
+- csshero.org/mesher/
+
+Animation:
+- animate.style
+
+Color palettes:
+- realtimecolors.com
+- uicolors.app
+
+SVG:
+- app.haikei.app
+- patternpad.com
+- loading.io
+- getwaves.io
+- softr.io
+- designstripe.com
+
+Fonts:
+- fontpair.co
+- fonts.google.com
+
+Icons:
+- 3dicons.co
+
+Images:
+- pixelsquid.com
+- freepik.com
+- pngtree.com
+- mrcutout.com
+- stickpng.com
+- purepng.com
+- vexels.com
+
+Others:
+- uiverse.io
+- omatsuri.app
+- fffuel.co
+- 10015.io
+- splidejs.com

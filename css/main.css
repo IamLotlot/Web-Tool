@@ -1,0 +1,19 @@
+:root{
+    --black: #0F0E0E;
+    --white: #F0ECE6;
+    --gray: #B3B6B7;
+    --red: #6F1A07;
+    --mindaro: #D6FF79;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: var(--black);
+    color: var(--white);
+}
+body::-webkit-scrollbar{
+    width: 0;
+}
